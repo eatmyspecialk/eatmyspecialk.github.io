@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+  color: 003333;
+}
+h2 {
+  text-align: center;
+  color: 003333;
+}
+h3 {
+  text-align: center;
+  color: 003333;
+}
+p {
+  text-align: center;
+  color: 003333;
+}
+li {
+  text-align: center;
+  color: 003333;}
+body  {
+    background-image: url(https://wallpapercave.com/wp/wp1882915.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.sticky {
+  text-align: right;
+  font-size: 150%;
+  color: 003333;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 0px
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
