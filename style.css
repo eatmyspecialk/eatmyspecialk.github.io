@@ -36,6 +36,7 @@ img.center {
   margin-left: auto;
   margin-right: auto;
 }
+
 button {
     display: inline-block;
     height: 134px;
@@ -52,7 +53,7 @@ button {
 }
 
 #close-CSS {
-    background-image: url( 'https://vignette.wikia.nocookie.net/shadowofthecolossusespaol/images/8/80/537c2c9b5db182ef6572ce1eb6e27fd4.jpg/revision/latest?cb=20170629201640&path-prefix=es' );
+    background-image: url('https://vignette.wikia.nocookie.net/shadowofthecolossusespaol/images/8/80/537c2c9b5db182ef6572ce1eb6e27fd4.jpg/revision/latest?cb=20170629201640&path-prefix=es');
     background-size: 100px 130px;
     height: 134px;
     width: 104px;
