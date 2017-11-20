@@ -37,6 +37,8 @@ img.center {
   margin-right: auto;
 }
 
+div.homebutton {text-align: center;}
+
 button {
     display: inline-block;
     height: 134px;
